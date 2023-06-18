@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://scontent.fdhi1-1.fna.fbcdn.net/v/t39.30808-6/274818499_644262110177158_2738954660756863894_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=urxTjCZnZZIAX-eKJa6&_nc_ht=scontent.fdhi1-1.fna&oh=00_AfCV-jlHuOcmr-Nk5ecAu451jBPNgI-naDMrNy75O1qQbg&oe=6492297E");
+    background-image: url("https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -7,6 +7,9 @@ body{
     touch-action: pan-y;
 }
 h1{
+    position: relative;
+    bottom: 50%;
+    left: 50%;
     color: rgb(8, 55, 207);
     display: inline-block;
     border: 2px solid rgb(117, 66, 66);

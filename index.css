@@ -7,9 +7,6 @@ body{
     touch-action: pan-y;
 }
 h1{
-    position: relative;
-    bottom: 50%;
-    left: 50%;
     color: rgb(8, 55, 207);
     display: inline-block;
     border: 2px solid rgb(117, 66, 66);

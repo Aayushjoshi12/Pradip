@@ -1,16 +1,8 @@
 body{
-    background-image: url("https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    touch-action: pan-y;
-}
-h1{
-    color: rgb(8, 55, 207);
-    display: inline-block;
-    border: 2px solid rgb(117, 66, 66);
-    font-size: x-large;
-    font-weight:bold;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: black;
+    background: linear-gradient(45deg,#0d9445,#3a1b1b);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid;
+    padding-left: 20px;
 }
